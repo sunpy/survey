@@ -1,2 +1,15 @@
 The results of the survey will be submitted as a paper to *Solar Physics*; if it is accepted, we will update this file with the associated BibTex entry. In the meantime, please cite these results using the BibTex entry of the most recent Zenodo deposit of this repository:
 
+```
+@software{survey011,
+  author       = {Monica Bobra and
+                  Stuart Mumford},
+  title        = {sunpy/survey: survey v0.1.1 (2020-02-10)},
+  month        = feb,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {0.1.1},
+  doi          = {10.5281/zenodo.3661327},
+  url          = {https://doi.org/10.5281/zenodo.3661327}
+}
+```
