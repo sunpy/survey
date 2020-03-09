@@ -10,16 +10,17 @@ This repository contains the raw data from the survey responses (n=368) (in `raw
 We submitted the results of this survey as a paper to *Solar Physics*; if it is accepted, we will update this file with the associated BibTex entry. In the meantime, please cite these results using the BibTex entry of the most recent Zenodo deposit of this repository:
 
 ```
-@software{survey011,
+@software{survey020,
   author       = {Monica Bobra and
-                  Stuart Mumford},
-  title        = {sunpy/survey: survey v0.1.1 (2020-02-10)},
-  month        = feb,
+                  Stuart Mumford and
+                  Tiago M. D. Pereira},
+  title        = {sunpy/survey: survey v0.2.0 (2020-03-09)},
+  month        = mar,
   year         = 2020,
   publisher    = {Zenodo},
-  version      = {0.1.1},
-  doi          = {10.5281/zenodo.3661327},
-  url          = {https://doi.org/10.5281/zenodo.3661327}
+  version      = {0.2.0},
+  doi          = {10.5281/zenodo.3701855},
+  url          = {https://doi.org/10.5281/zenodo.3701855}
 }
 ```
 
