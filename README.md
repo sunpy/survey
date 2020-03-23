@@ -7,7 +7,7 @@ This repository contains the raw data from the survey responses (n=368) (in `raw
 
 ### Citation
 
-We submitted the results of this survey as a paper to *Solar Physics*; if it is accepted, we will update this file with the associated BibTex entry. In the meantime, please cite these results using the BibTex entry of the most recent Zenodo deposit of this repository:
+We submitted results of this survey as a paper to *Solar Physics* on February 12, 2020. The paper was accepted on March 19, 2020. When we receive a DOI for the manuscript, we will update this file with the associated BibTex entry. In the meantime, please cite these results using the BibTex entry of the most recent Zenodo deposit of this repository:
 
 ```
 @software{survey020,
