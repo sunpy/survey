@@ -1,15 +1,16 @@
-The results of the survey will be submitted as a paper to *Solar Physics*; if it is accepted, we will update this file with the associated BibTex entry. In the meantime, please cite these results using the BibTex entry of the most recent Zenodo deposit of this repository:
+We presented the results of this survey in a paper published on April 20, 2020. If you use the code in this repository or reference the survey results, please consider citing our paper. Here is the BibTeX entry for the paper:
 
 ```
-@software{survey011,
-  author       = {Monica Bobra and
-                  Stuart Mumford},
-  title        = {sunpy/survey: survey v0.1.1 (2020-02-10)},
-  month        = feb,
-  year         = 2020,
-  publisher    = {Zenodo},
-  version      = {0.1.1},
-  doi          = {10.5281/zenodo.3661327},
-  url          = {https://doi.org/10.5281/zenodo.3661327}
+@ARTICLE{sunpysurvey,
+    author = {{Bobra}, Monica G. and {Mumford}, Stuart J. and {Hewett}, Russell J. and {Christe}, Steven D. and {Reardon}, Kevin and {Savage}, Sabrina and {Ireland}, Jack and {Pereira}, Tiago M.~D. and {Chen}, Bin and {P{\'e}rez-Su{\'a}rez}, David},
+    title = "{A Survey of Computational Tools in Solar Physics}",
+    journal = {\solphys},
+    year = 2020,
+    month = apr,
+    volume = {295},
+    number = {4},
+    eid = {57},
+    pages = {57},
+    doi = {10.1007/s11207-020-01622-2}
 }
 ```
