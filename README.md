@@ -13,7 +13,7 @@ We presented the results of this survey in a paper published on April 20, 2020 (
 @ARTICLE{sunpysurvey,
     author = {{Bobra}, Monica G. and {Mumford}, Stuart J. and {Hewett}, Russell J. and {Christe}, Steven D. and {Reardon}, Kevin and {Savage}, Sabrina and {Ireland}, Jack and {Pereira}, Tiago M.~D. and {Chen}, Bin and {P{\'e}rez-Su{\'a}rez}, David},
     title = "{A Survey of Computational Tools in Solar Physics}",
-    journal = {\solphys},
+    journal = {Solar Physics},
     year = 2020,
     month = apr,
     volume = {295},
